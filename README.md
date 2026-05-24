@@ -14,6 +14,14 @@ A simple TypeScript command line application that sends user prompts to an AI mo
 
 Install dependencies:
 
+### Using npm
+
+```bash
+npm install
+```
+
+### OR using pnpm
+
 ```bash
 pnpm install
 ```
@@ -31,6 +39,10 @@ Run the application with a prompt:
 
 ```bash
 pnpm dev "Explain REST APIs"
+```
+
+```bash
+npm run dev "Explain REST APIs"
 ```
 
 Example output:
