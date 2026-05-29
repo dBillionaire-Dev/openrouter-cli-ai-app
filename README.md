@@ -8,7 +8,7 @@ A simple TypeScript command line application that sends user prompts to an AI mo
 - Sends requests to OpenRouter AI models
 - Returns and displays AI generated responses
 - Uses environment variables for security
-- Built with TypeScript and pnpm
+- Built with TypeScript
 
 ## Setup
 
