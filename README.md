@@ -66,5 +66,4 @@ REST APIs are...
 - Node.js
 - OpenRouter API
 - dotenv
-- tsx
 - pnpm
