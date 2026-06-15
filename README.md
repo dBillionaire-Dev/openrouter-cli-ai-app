@@ -28,6 +28,10 @@ pnpm install
 
 Create a `.env` file in the project root:
 
+```bash
+cp .env.example .env
+```
+
 ```env
 OPENROUTER_API_KEY=your_api_key
 MODEL_NAME=openai/gpt-4o-mini
