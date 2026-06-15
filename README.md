@@ -1,4 +1,4 @@
-# OpenRouter TypeScript CLI
+# OpenRouter - TypeScript CLI
 
 A simple TypeScript command line application that sends user prompts to an AI model through the OpenRouter API and prints the AI response in the terminal.
 
